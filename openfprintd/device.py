@@ -6,8 +6,6 @@ import pwd
 import os
 import time
 from gi.repository import GLib
-from gi.repository import GLib
-
 
 INTERFACE_NAME = 'net.reactivated.Fprint.Device'
 
